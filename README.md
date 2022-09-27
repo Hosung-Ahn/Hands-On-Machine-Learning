@@ -4,7 +4,7 @@
  <tr>
   <td><img src='/images/img.jpg' width=300></td>
   <td>
-   <b>Deep Learning from Scratch</b>
+   <b>Hands On Machine Learning</b>
 
 Essential Concepts Using Python
 
